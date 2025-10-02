@@ -40,5 +40,5 @@ pip install -r requirements.txt
 3.プログラムを実行：
 ```bash
 python NTT_stock_prediction.py
-
+```markdown
 
