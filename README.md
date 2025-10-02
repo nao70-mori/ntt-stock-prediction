@@ -32,13 +32,13 @@
 ```bash
 git clone https://github.com/nao70-mori/ntt-stock-prediction.git
 cd ntt-stock-prediction
-
+```bash
 2. 必要なライブラリをインストール：
 ```bash
 pip install -r requirements.txt
-
+```bash
 3.プログラムを実行：
 ```bash
 python NTT_stock_prediction.py
-
+```bash
 
